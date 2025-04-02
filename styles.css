@@ -5,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font-weight: normal;
+    color: #ffffff;
 }
 
 body{
@@ -60,4 +61,45 @@ header h2 {
     position: relative;
     display: inline-block;
     vertical-align: center;
+    text-shadow:  1px 2px 2px #000;;
 }
+
+h3 {
+    font-size: 1.4em;
+    margin-bottom: 3px;
+}
+
+.nombre_puesto
+{ 
+    margin: 20px 50px;
+}
+
+section {
+    background-color: rgba(63, 63, 63, .7);
+    padding: 15px;
+    border-radius: 10px;
+    margin: 30px 0px;
+    box-shadow: 0 0 5px rgba(0, 0,  0, 0.1);
+
+}
+
+section h3 {
+    background: #5f2900;
+    color: #f38200;
+    text-shadow:  1px 2px 2px #000;;
+}
+
+ul{
+    color: #000;
+    text-decoration: none;
+    list-style-type: none;
+
+}
+
+
+#icon-habilidades {
+    margin: 0;
+
+}
+
+span { margin-right: ;}
